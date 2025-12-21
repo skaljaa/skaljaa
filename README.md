@@ -4,7 +4,7 @@
   <ul align="center" style="list-style: none">
     <summary>
       <h1>
-        👋 Hi, my name is Skaljaa
+        👋 Hi, my name is Tarik
       </h1>
     </summary>
   </ul>
