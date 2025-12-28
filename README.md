@@ -29,7 +29,7 @@
  **<h3 align="center">GitHub Stats</h3>**
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=skaljaa&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=skaljaa&theme=react&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&line_height=23" alt="GitHub stats Card" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=skaljaa&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
 </p>
 
